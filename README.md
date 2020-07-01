@@ -30,4 +30,5 @@ The data statistics updates in every 15 minutes.
 * [EazeGraph](https://github.com/blackfizz/EazeGraph)
 * [SimpleArcLoader](https://github.com/generic-leo/SimpleArcLoader)
 * [Glide](https://github.com/bumptech/glide)
+* [Lottie](https://github.com/airbnb/lottie-android)
 
