@@ -20,6 +20,7 @@ The data statistics updates in every 15 minutes.
 * Numerical Representation of Global Stats
 * Country wise data with Country Flag
 * Search bar to search Countries
+* Speech to Text Feature to Search
 
 ## Libraries used
 
