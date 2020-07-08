@@ -34,4 +34,4 @@ The data statistics updates in every 15 minutes.
 
 ## Demo
 
-<img src="https://user-images.githubusercontent.com/62876849/86243398-bf3fd280-bbbf-11ea-9805-197ec8653ecc.gif" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/62876849/86243398-bf3fd280-bbbf-11ea-9805-197ec8653ecc.gif" width="380" height="550">
